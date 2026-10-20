@@ -1,5 +1,10 @@
 # 🗓️ Automação de Presença em Atendimentos
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 **Script em Python para automatizar o preenchimento mensal de planilhas de presença a partir da agenda de um sistema web de clínica.**
 
 O projeto utiliza **Playwright** para navegar pelo sistema e **openpyxl** para atualizar uma planilha Excel, identificando os atendimentos realizados em cada dia do mês.
