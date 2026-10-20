@@ -399,14 +399,6 @@ A automação não substitui a responsabilidade de conferir a integridade e a ex
 
 ---
 
-## 📄 Licença
-
-Escolha uma licença compatível com a forma como você deseja distribuir o projeto. Uma opção comum para projetos de código aberto é a [licença MIT](https://choosealicense.com/licenses/mit/).
-
-Para adotá-la, crie um arquivo chamado `LICENSE` na raiz do repositório com o texto completo da licença escolhida.
-
----
-
 **Desenvolvido para reduzir tarefas repetitivas, organizar o controle mensal de atendimentos e facilitar a conferência de presença.**
 
 *Automação com responsabilidade, segurança e atenção ao sigilo profissional.*
