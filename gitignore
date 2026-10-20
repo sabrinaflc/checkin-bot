@@ -1,0 +1,19 @@
+# Dados de pacientes: NUNCA versionar
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.pdf
+screenshots/
+dados/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ambiente / credenciais
+.env
+*.log
