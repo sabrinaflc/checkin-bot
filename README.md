@@ -14,7 +14,7 @@ Em vez de conferir manualmente cada data e cada paciente, o script executa as ta
 > [!WARNING]
 > **Privacidade, LGPD e sigilo profissional**
 >
-> Este projeto pode processar dados pessoais sensíveis relacionados à saúde. Nunca publique no GitHub planilhas reais, nomes de pacientes, capturas de tela, credenciais ou outros dados confidenciais. Consulte a seção [Privacidade e segurança](#-privacidade-e-segurança).
+> Nunca publique no GitHub planilhas reais, nomes de pacientes, capturas de tela, credenciais ou outros dados confidenciais. Consulte a seção [Privacidade e segurança](#-privacidade-e-segurança).
 
 ---
 
